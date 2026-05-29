@@ -13,8 +13,15 @@ I enjoy working with data, building projects, and continuously improving my skil
 * Pandas
 * NumPy
 * Matplotlib
-* Basic Tkinter
+* Tkinter
 * SQL (Learning)
+* file hamdling
+* DSA in python
+* object oriented programming using python
+* 
+* c programming basic
+* c++ programming basic
+* 
 
 ---
 
