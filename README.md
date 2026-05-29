@@ -18,22 +18,19 @@ I enjoy working with data, building projects, and continuously improving my skil
 * file hamdling
 * DSA in python
 * object oriented programming using python
-* 
 * c programming basic
 * c++ programming basic
-* 
 
 ---
 
-## 📂 Projects
-
+## 📂 Project 
 * 📊 Sales Data Analysis (Pandas + Visualization)
 * 🧮 Student Performance Analysis (NumPy)
 * 💸 Daily Expense Tracker (Python)
 * 🛒 Shopping Mall Management System
 * 🧠 Parenthesis Balancing Checker
 * 🏧 ATM Simulation (Tkinter GUI)
-
+* 🧮 calculator (Tkinter GUI)
 ---
 
 ## 📫 Contact
