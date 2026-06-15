@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Sheelu Verma
+    > BCA student | python developer(learner) 
 
-## 🚀 About Me
-I am a BCA student passionate about programming, problem-solving, and building real-world projects using Python and modern tools.  
-Currently focused on improving my development skills and exploring AI & automation.
+##  About Me
+I am a BCA student passionate about python programming and software development.I am currently working on AI tools (learning)
+I enjoy building small projects and learning new technologies to  improve my skills.
 
 ---
 
@@ -16,16 +17,17 @@ Currently focused on improving my development skills and exploring AI & automati
 ---
 
 ## 📌 Featured Projects
-- 🏧 ATM GUI System (Python Tkinter)
-- 🧮 Calculator App (GUI-based)
-- 📁 More projects coming soon...
+- 🏧 ATM System (tkinter GUI)
+- 🧮 Calculator App (tkinter GUI)
+- 📁 student management system
+- 🚄 Railway ticket fare calculator(tkinter GUI)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheeluverma827-hash&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheeluverma827-hash&layout=compact)
 
 ---
 
