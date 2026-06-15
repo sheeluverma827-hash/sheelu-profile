@@ -28,15 +28,6 @@ I enjoy building small projects and learning new technologies to  improve my ski
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheeluverma827-hash&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheeluverma827-hash&layout=compact)
-
-## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
 ---
 
 ##  Connect with Me
