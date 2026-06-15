@@ -37,6 +37,9 @@ I enjoy building small projects and learning new technologies to  improve my ski
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45"/>
 </a>
 </p>
+<a href="mailto:sheeluverma827@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
+</a>
 
 ---
 
