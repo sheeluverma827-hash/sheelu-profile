@@ -1,40 +1,50 @@
 # 👋 Hi, I'm Sheelu Verma
 
-## 💻 About Me
-
-I am a self-taught Python programmer with hands-on experience in data analysis and problem solving.
-I enjoy working with data, building projects, and continuously improving my skills.
-
----
-
-## 🚀 Skills
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Tkinter
-* SQL (Learning)
-* file hamdling
-* DSA in python
-* object oriented programming using python
-* c programming basic
-* c++ programming basic
+## 🚀 About Me
+I am a BCA student passionate about programming, problem-solving, and building real-world projects using Python and modern tools.  
+Currently focused on improving my development skills and exploring AI & automation.
 
 ---
 
-## 📂 Project 
-* 📊 Sales Data Analysis (Pandas + Visualization)
-* 🧮 Student Performance Analysis (NumPy)
-* 💸 Daily Expense Tracker (Python)
-* 🛒 Shopping Mall Management System
-* 🧠 Parenthesis Balancing Checker
-* 🏧 ATM Simulation (Tkinter GUI)
-* 🧮 calculator (Tkinter GUI)
+## 💻 Tech Stack
+- 🐍 Python (Core + Libraries)
+- 🪟 Tkinter (GUI Development)
+- 🌐 HTML (Basics)
+- 🔧 Git & GitHub
+- 🤖 AI Tools (Learning Phase)
+
 ---
 
-## 📫 Contact
-Email- sheeluverma827@gmail.com
+## 📌 Featured Projects
+- 🏧 ATM GUI System (Python Tkinter)
+- 🧮 Calculator App (GUI-based)
+- 📁 More projects coming soon...
 
+---
 
-* Email: my-email-here
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+---
+
+## 🌐 Connect with Me
+<p>
+<a href="https://linkedin.com/in/sheelu-verma-010aba3a5/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45"/>
+</a>
+</p>
+
+---
+
+## 🎯 Current Goals
+- Build 5+ strong Python projects
+- Learn GitHub professionally
+- Start AI/ML basics
+- Participate in hackathons
+
+---
+
+## ✨ Quote
+> “Consistency beats talent when talent doesn’t work hard.”
