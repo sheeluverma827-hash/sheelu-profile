@@ -32,15 +32,22 @@ I enjoy building small projects and learning new technologies to  improve my ski
 ---
 
 ## 🌐 Connect with Me
-<p>
-<a href="https://linkedin.com/in/sheelu-verma-010aba3a5/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45"/>
-</a>
-</p>
-<a href="mailto:sheeluverma827@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sheelu-verma-010aba3a5/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" style="margin: 10px;"/>
 </a>
 
+<a href="mailto:sheeluverma827@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45" style="margin: 10px;"/>
+</a>
+
+<a href="https://github.com/sheeluverma827-hash" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45" style="margin: 10px;"/>
+</a>
+
+</p>
 ---
 
 ## 🎯 Current Goals
