@@ -7,7 +7,7 @@ I enjoy building small projects and learning new technologies to  improve my ski
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 - 🐍 Python (Core + Libraries)
 - 🪟 Tkinter (GUI Development)
 - 🌐 HTML (Basics)
@@ -16,7 +16,7 @@ I enjoy building small projects and learning new technologies to  improve my ski
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 - 🏧 ATM System (tkinter GUI)
 - 🧮 Calculator App (tkinter GUI)
 - 📁 student management system
@@ -31,7 +31,7 @@ I enjoy building small projects and learning new technologies to  improve my ski
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 
 <a href="https://www.linkedin.com/in/sheelu-verma-010aba3a5/" target="_blank">
@@ -52,5 +52,5 @@ I enjoy building small projects and learning new technologies to  improve my ski
 
 ---
 
-## ✨ Quote
-> “Consistency beats talent when talent doesn’t work hard.”
+## 😎
+> I write code, it breaks....I fix it ,I become a developer💻
