@@ -33,7 +33,6 @@ I enjoy building small projects and learning new technologies to  improve my ski
 
 ## 🌐 Connect with Me
 
-<p align="center">
 
 <a href="https://www.linkedin.com/in/sheelu-verma-010aba3a5/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45"/>
